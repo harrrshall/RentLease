@@ -79,8 +79,9 @@ export default function Home() {
                 {!hasInteraction && (
                     <div className="min-h-[80vh] flex flex-col items-center justify-center animate-in fade-in duration-700">
                         <h1 className="text-4xl md:text-5xl font-medium text-slate-900 mb-8 text-center tracking-tight leading-tight">
-                            Expert resolutions for<br className="hidden md:block" /> Tenants and Landlords.
+                            Trusted answers for<br className="hidden md:block" /> rental conflicts.
                         </h1>
+
 
                         <div className="w-full max-w-2xl relative group">
                             <form onSubmit={handleSubmit} className="relative shadow-xl hover:shadow-2xl transition-all duration-300 rounded-2xl bg-white ring-1 ring-slate-200 z-50">
