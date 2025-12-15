@@ -170,8 +170,8 @@ export default function Home() {
                         {/* Footer in Initial View */}
                         <footer className="absolute bottom-8 w-full text-center">
                             <div className="flex justify-center gap-6 text-slate-400">
-                                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-slate-600 transition-colors text-sm font-medium">LinkedIn</a>
-                                <a href="https://reddit.com" target="_blank" rel="noopener noreferrer" className="hover:text-slate-600 transition-colors text-sm font-medium">Reddit</a>
+                                <a href="https://www.linkedin.com/in/harshalsinghcn/" target="_blank" rel="noopener noreferrer" className="hover:text-slate-600 transition-colors text-sm font-medium">LinkedIn</a>
+                                <a href="https://www.reddit.com/user/Which_Pitch1288/" target="_blank" rel="noopener noreferrer" className="hover:text-slate-600 transition-colors text-sm font-medium">Reddit</a>
                             </div>
                         </footer>
                     </div>
