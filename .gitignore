@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+venv/
+.pnpm-store
+
+# Testing
+coverage/
+.nyc_output/
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Vercel
+.vercel
+
+# Environment Variables (CRITICAL: Do not commit keys)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.pem
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Large Data & Private Content
+all_rental_data.json
+extracted_failure_modes.jsonl
+*.sqlite
+*.db
+
+# OS
+.DS_Store
+Thumbs.db

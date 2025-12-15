@@ -1,0 +1,19 @@
+{
+    "title": "Cost-Cutting Overrides Habitability and Due Diligence",
+    "severity_score": 9,
+    "summary": "Landlords prioritize short-term cost savings over essential repairs and code compliance, leading to tenant disputes and significant legal/financial repercussions. This pattern repeats due to a failure to recognize that initial cost-cutting measures often incur far greater expenses through protracted conflict and mandated remediation.",
+    "the_trigger": "Tenant requests for repairs or discovery of code violations, or initial tenant dissatisfaction with property condition.",
+    "the_escalation": "1. Landlord attempts a cheap, substandard repair or denies the issue. 2. Tenant escalates by documenting, seeking external advice (online forums, legal counsel, building departments), or making further demands. 3. Landlord may react defensively, deny, or attempt to intimidate the tenant. 4. Disputes escalate to formal complaints, legal action, or lease termination demands, often amplified by online communities.",
+    "the_fatal_mistake": "Choosing the cheapest repair or denial over a proper, code-compliant fix, or aggressively disputing legitimate habitability concerns instead of addressing them.",
+    "brutal_reality_quotes": [
+        "How could this possibly be easier than just doing it right?",
+        "The landlord is putting lives at risk to save money.",
+        "If you\u2019re going to attempt to sap off additional income in this ludicrous thing called an \u2018investment property,\u2019 the least you can fucking do is actually INVEST IN IT to make it habitable."
+    ],
+    "pre_mortem_checklist": [
+        "Does this repair or condition impact habitability or code compliance?",
+        "Tenant complaints about habitability issues that are met with denial or minimal effort.",
+        "Always perform repairs to code and lease requirements, even if it costs more upfront."
+    ],
+    "financial_impact": "$2,000 - $20,000+ (Legal fees, mandated repairs, potential fines, loss of rent/deposit, and significant operational disruption)."
+}

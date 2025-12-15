@@ -1,0 +1,20 @@
+{
+    "title": "Reactive Lead Nurturing and Systemic Neglect",
+    "severity_score": 8,
+    "summary": "Operators fail to implement systematic lead nurturing and follow-up, leading to missed opportunities and income volatility. This repeats because the perceived 'easier' or 'modern' methods distract from foundational, consistent client engagement.",
+    "the_trigger": "Casual conversations, unsolicited inquiries, or initial successful outreach that generates leads without an immediate, structured follow-up plan.",
+    "the_escalation": "1. Initial lead contact (conversation, inquiry, successful outreach) occurs without a system. 2. Leads are not systematically nurtured or followed up on due to reliance on memory or ad-hoc efforts. 3. Competitors with consistent follow-up secure the business. 4. Latent needs are missed, and potential commissions are lost.",
+    "the_fatal_mistake": "Failure to implement a consistent, systematic lead management and follow-up process, prioritizing reactive engagement over proactive nurturing and client relationship building.",
+    "brutal_reality_quotes": [
+        "Failure to implement a consistent and systematic follow-up process, relying on memory or ad-hoc efforts which are easily derailed by busy periods.",
+        "The realtor did not have a proactive strategy for converting casual conversations into client relationships beyond handing out a business card without a follow-up plan.",
+        "Agents with more consistent follow-up secured deals that the original poster missed.",
+        "The original poster recognized a pattern of 'donated commissions' due to lack of persistence."
+    ],
+    "pre_mortem_checklist": [
+        "Do I have a documented, repeatable system for nurturing every lead, regardless of initial perceived urgency?",
+        "Ignoring the 'warm fuzzy' feeling of a successful initial contact and focusing on the lack of a follow-up plan.",
+        "If a lead is not immediately converted, is it entered into a structured follow-up sequence?"
+    ],
+    "financial_impact": "$10,000 - $50,000+ per missed opportunity. This range reflects lost commissions from clients who engage with competitors due to a lack of consistent follow-up and nurturing, compounded by income volatility and anxiety."
+}

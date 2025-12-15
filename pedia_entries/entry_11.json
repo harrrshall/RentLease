@@ -1,0 +1,25 @@
+{
+    "title": "Underinvestment in Human Capital and Oversight",
+    "severity_score": 9,
+    "summary": "Operators repeatedly fail to recognize the value of skilled labor and effective management, leading to underpayment and lack of oversight. This underinvestment directly causes burnout, property damage, and significant financial losses due to poor tenant selection and operational neglect.",
+    "the_trigger": "The need to hire skilled labor, delegate property management, or onboard new employees for high-stress roles.",
+    "the_escalation": [
+        "Operators attempt to minimize labor costs by underpaying or failing to provide adequate compensation for essential skills.",
+        "Lack of performance monitoring and clear policies allows for operational drift, neglect, and poor decision-making by delegated parties or employees.",
+        "Skilled employees seek fair compensation or leave, while underpaid employees burn out, leading to high turnover and operational instability.",
+        "Property damage, financial losses from poor tenant selection, and increased repair costs accumulate due to inadequate management and oversight."
+    ],
+    "the_fatal_mistake": "Viewing compensation increases or investments in oversight as excessive costs rather than essential investments to retain talent, ensure quality management, and prevent far greater financial and operational damage.",
+    "brutal_reality_quotes": [
+        "The property management company's hesitation to pay the requested market rate for a highly valuable, independently-resourced employee, viewing the $10/hr increase as excessive rather than an investment.",
+        "Retaining a property manager whose performance led to property damage and financial loss, rather than implementing oversight or a performance review process.",
+        "Understaffing and underpaying for a high-volume, high-stress role dealing with frequent tenant disputes, legal threats, and entitlement, leading to rapid employee burnout.",
+        "A bad tenant can cost you 10x more in time, money, and sanity than a few weeks of vacancy."
+    ],
+    "pre_mortem_checklist": [
+        "Am I compensating my employees and third-party managers at a rate that reflects their skills and the demands of the role?",
+        "Is there a clear, enforced system for monitoring property manager performance and tenant quality?",
+        "Would I be willing to pay a premium for a proven, highly competent property manager or skilled tradesperson to avoid costly mistakes?"
+    ],
+    "financial_impact": "$10,000 - $50,000+ per incident. This range accounts for significant repair costs due to neglect, potential legal fees and lost income from bad tenants, and the high cost of replacing skilled employees or property managers."
+}

@@ -1,0 +1,24 @@
+{
+    "title": "Over-reliance on Third-Party Data Without Validation",
+    "severity_score": 7,
+    "summary": "Operators repeatedly leverage external data sources (like Zillow) for critical business functions without independent validation or contextualization. This blind trust in potentially inaccurate or outdated third-party information leads to flawed decision-making and significant operational or legal risks.",
+    "the_trigger": "The need for data-driven insights or automation in real estate transactions, property analysis, or lead generation.",
+    "the_escalation": [
+        "Initial reliance on readily available third-party data APIs (e.g., Zillow, Attom) for core metrics like valuations, rental estimates, taxes, and HOA fees.",
+        "Development of tools or workflows that automate decisions or analyses based solely on this external data.",
+        "Users encounter discrepancies or inaccuracies, but the core reliance on the flawed data source persists due to convenience or perceived cost savings.",
+        "Escalation to significant financial miscalculations, legal exposure (e.g., unlicensed practice, inaccurate advice), or loss of user trust and platform utility."
+    ],
+    "the_fatal_mistake": "Treating scraped or API-provided data as definitive truth without implementing robust validation, cross-referencing, or incorporating unique local knowledge and property-specific details.",
+    "brutal_reality_quotes": [
+        "Over-reliance on Zillow's data for critical metrics (HOA fees, property taxes, insurance estimates, rental estimates) without accounting for its known inaccuracies and inflated values, leading to potentially flawed deal assessments.",
+        "The AI tool relied solely on publicly scraped Zillow data for valuation and risk factors, failing to incorporate unique local market knowledge, detailed property specifics (like ADUs, permits, age vs. build quality), and user-inputted data, leading to inaccurate and untrustworthy analyses.",
+        "Commenters raised concerns about the accuracy of Zillow's data, particularly for HOA fees, property taxes, and rental estimates, with one user noting that Zillow data is often outdated or inflated."
+    ],
+    "pre_mortem_checklist": [
+        "What are the known limitations and error rates of the third-party data sources we are relying on?",
+        "Are we cross-referencing critical data points with at least two other independent sources or internal knowledge bases?",
+        "Would a decision made based solely on this third-party data hold up under scrutiny from a regulator or a sophisticated counterparty?"
+    ],
+    "financial_impact": "$0 - Significant Legal Risk. While direct financial losses from inaccurate data are often hard to quantify (as seen in the 'quick pulse check' examples), the primary financial impact stems from potential legal liabilities, fines for unlicensed practice, and the cost of rebuilding trust and user adoption after providing demonstrably flawed analyses or services."
+}

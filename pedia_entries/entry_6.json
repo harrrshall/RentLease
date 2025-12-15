@@ -1,0 +1,19 @@
+{
+    "title": "Lack of Foundational Competence and Network in Capital-Intensive Fields",
+    "severity_score": 8,
+    "summary": "Individuals and groups repeatedly underestimate the capital, experience, and specialized knowledge required for real estate development and investment. They fail to build robust professional networks and acquire foundational skills, leading to unrealistic expectations and flawed execution.",
+    "the_trigger": "Desire to enter capital-intensive fields like real estate development or investing without sufficient capital, experience, or a clear strategy.",
+    "the_escalation": "Initial attempts are met with market realities (competition, high costs, regulatory hurdles). Lack of experience leads to poor decision-making in property acquisition, financing, and design. Isolation prevents access to crucial advice and mentorship, perpetuating a cycle of under-resourced and poorly planned ventures.",
+    "the_fatal_mistake": "Attempting to enter fields requiring significant capital, specialized knowledge, and professional networks without first acquiring the necessary foundational competence, practical experience, or a clear development path.",
+    "brutal_reality_quotes": [
+        "For someone who doesn't have any seed money or investors it's a long, hard road.",
+        "The only correct answer is join the discord",
+        "as an architect this hurts. i can't fix anything if this is the canvas you give me."
+    ],
+    "pre_mortem_checklist": [
+        "Do I possess the necessary capital, operational knowledge, and risk management framework for this venture?",
+        "Are my financial projections supported by realistic market data and a clear path to NOI growth?",
+        "Have I actively sought out and engaged with experienced mentors and a dedicated professional network within this specific industry?"
+    ],
+    "financial_impact": "$50,000 - $500,000+ in lost capital and opportunity cost. This range reflects the potential for significant debt accumulation, extensive renovation costs, legal fees, and the complete loss of invested capital due to undercapitalization and inexperience."
+}

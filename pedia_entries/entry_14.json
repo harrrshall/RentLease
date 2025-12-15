@@ -1,0 +1,19 @@
+{
+    "title": "Landlord Overreach and Violation of Tenant Rights",
+    "severity_score": 9,
+    "summary": "Landlords frequently overstep legal boundaries by violating tenant privacy and lease terms, driven by a desire to control property use or expedite vacancies. This overreach, often stemming from a misunderstanding or disregard for tenant rights and legal notice periods, escalates disputes and incurs significant legal and financial penalties.",
+    "the_trigger": "Landlord's attempt to exert control beyond lease terms or legal rights, such as unauthorized entry, enforcing unenforceable clauses, or demanding early vacancy without proper notice or compensation.",
+    "the_escalation": "Tenant challenges the landlord's actions, leading to increased harassment or retaliatory behavior from the landlord. This can involve repeated violations, threats, or attempts to force the tenant out through non-legal means, prompting tenants to seek legal counsel or document the landlord's misconduct.",
+    "the_fatal_mistake": "The landlord's failure to adhere to legal notice requirements for lease termination or entry, or engaging in unauthorized entry and harassment, instead of pursuing lawful eviction processes.",
+    "brutal_reality_quotes": [
+        "CLAUSES IN LEASES THAT VIOLATE STATE LAW ARE UNENFORCEABLE.",
+        "She entered my apartment today when I was not home and unplugged it. She did not provide a warning. I feel like this was a complete invasion of privacy as this was not an emergency, and my lease states she must give notice unless it is an emergency.",
+        "The landlord screwed up and either needs to give the legally required timeframe or pay for their screwup."
+    ],
+    "pre_mortem_checklist": [
+        "Have I thoroughly reviewed and understood all local and state tenant protection laws regarding entry, notice periods, and lease enforcement?",
+        "A tenant questioning a lease clause or landlord's action, especially regarding privacy or entry, is a critical warning sign.",
+        "Always provide legally mandated notice for entry and lease termination; if seeking early vacancy, offer a formal 'cash for keys' agreement with clear terms and compensation."
+    ],
+    "financial_impact": "$8,000 - $15,000+ (Legal fees, security deposit disputes, potential damages for harassment, unlawful entry, and lost rent due to protracted disputes or tenant claims)."
+}

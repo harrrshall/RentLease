@@ -1,0 +1,19 @@
+{
+    "title": "Assumption-Driven Operations & Policy Contradictions",
+    "severity_score": 8,
+    "summary": "Operators repeatedly make decisions based on unverified assumptions about tenant status or property conditions, directly contradicting established policies or legal obligations. This creates a cascade of predictable negative outcomes, from legal challenges to tenant dissatisfaction and potential property damage.",
+    "the_trigger": "An operator acts on an unconfirmed assumption (e.g., tenant vacated, lease end date, property condition) without verification.",
+    "the_escalation": "1. Operator takes action based on the assumption (e.g., enters unit, signs new lease, ignores issue). 2. Tenant or external party identifies the discrepancy or violation. 3. The initial assumption is proven false, leading to a breach of lease, policy, or law. 4. The situation escalates to formal complaints, legal action, or significant tenant disruption.",
+    "the_fatal_mistake": "Failing to verify critical information before acting, or implementing policies that are selectively enforced or contradicted by operational practices (e.g., reserving parking for some but not others).",
+    "brutal_reality_quotes": [
+        "He still can not just walk in without notice.",
+        "So, apparently, prospective tenants who don\u2019t even live here yet and literal golf carts deserve reserved parking, but a disabled tenant who needs it for mobility reasons does not.",
+        "Leases are designed to protect the building owner and minimize exposure."
+    ],
+    "pre_mortem_checklist": [
+        "Have I verified the tenant's actual move-out date or occupancy status before planning entry or re-leasing?",
+        "Is the action I'm about to take consistent with all stated policies and legal requirements, especially regarding fair housing and tenant privacy?",
+        "If a tenant's request seems unusual, have I checked if it's a reasonable accommodation or if our actions create a contradictory precedent?"
+    ],
+    "financial_impact": "$5,000 - $50,000+ (Legal fees, fines, tenant relocation costs, loss of rent, potential damages for breach of contract or discrimination claims)."
+}

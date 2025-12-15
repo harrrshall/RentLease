@@ -1,0 +1,20 @@
+{
+    "title": "Abuse of Power and Neglect of Due Diligence",
+    "severity_score": 9,
+    "summary": "Landlords and property managers repeatedly fail by neglecting fundamental due diligence in tenant screening and lease agreements, while some resort to unethical or illegal tactics to exert control. This creates a predictable cycle of non-payment, protracted disputes, and significant financial and reputational damage.",
+    "the_trigger": "Tenant's failure to pay rent, often after a pattern of delay tactics or establishing an informal payment schedule that deviates from the landlord's desired timeline.",
+    "the_escalation": "1. Tenant stops paying rent or pays with invalid methods. 2. Landlord resorts to improper leverage (e.g., ICE threats) or initiates flawed eviction processes. 3. Lack of clear written agreements or inadequate screening allows tenants to exploit legal loopholes or delay tactics. 4. Property managers misappropriate funds or fail to remit payments. 5. Legal processes are prolonged by court delays or tenant maneuvering, leading to extended rent-free occupancy. 6. Community backlash or discovery of tenant's repeat offenses occurs.",
+    "the_fatal_mistake": "Failure to establish and enforce clear, written lease agreements, insufficient tenant screening to identify high-risk individuals, and the use of extralegal pressure tactics instead of standard legal procedures.",
+    "brutal_reality_quotes": [
+        "\"I want brown people deported for my profit\"",
+        "If the LL was accepting payment on the 15th \"for a few months\" without having established a date that the rent was due, then the LL has established an implied-in-fact contract, and changing it without the consent of all parties would be violating that contract.",
+        "Past behavior is often the best predictor, and scammers like this count on landlords skipping due diligence.",
+        "You'll never get a cent from this guy even if you win in small claims court. Let it go and learn from this"
+    ],
+    "pre_mortem_checklist": [
+        "Have I thoroughly vetted this tenant's payment history and references, looking for patterns of non-payment or disputes?",
+        "The tenant's consistent payment of rent on a date different from the lease agreement, without formal objection.",
+        "Never deviate from the written lease terms regarding rent due dates, late fees, or payment methods, and always pursue legal eviction through proper channels."
+    ],
+    "financial_impact": "Thousands of dollars in unpaid rent and legal fees, plus potential for significant reputational damage and loss of property value due to prolonged vacancy and damage."
+}

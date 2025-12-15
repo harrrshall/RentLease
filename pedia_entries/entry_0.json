@@ -1,0 +1,23 @@
+{
+    "title": "Abuse of Security Deposits and Unilateral Fee Imposition",
+    "severity_score": 9,
+    "summary": "Landlords repeatedly attempt to circumvent security deposit laws by imposing unauthorized charges or non-refundable fees, driven by a desire to retain funds and avoid legal obligations. This pattern escalates due to a failure to adhere to statutory timelines and documentation requirements, leading to significant financial penalties and loss of tenant trust.",
+    "the_trigger": "Landlord's attempt to unilaterally charge tenants for services not explicitly in the lease or to withhold security deposit funds without proper justification or adherence to legal timelines.",
+    "the_escalation": "1. Landlord attempts to conceal unauthorized charges within utility bills or fabricates deductions from security deposits. 2. Tenant disputes charges, leading to landlord's evasion or retaliatory threats. 3. Landlord fails to return security deposits or provide itemized deductions within legally mandated periods. 4. Disputes escalate to legal action, often resulting in punitive damages for the landlord.",
+    "the_fatal_mistake": "The landlord's decision to either fabricate charges, fail to return deposits within legal timeframes, or attempt to bypass deposit regulations with non-refundable fees, demonstrating a clear disregard for tenant rights and statutory requirements.",
+    "brutal_reality_quotes": [
+        "The fact he hid the cost by adding it to your other charges is even more suspicious",
+        "Casually flaunting your wanton disregard for the law in an email will probably get you fucked just about everywhere though, yea.",
+        "So basically they just found a way around the requirements for security deposits and are mad that their hack is being banned.",
+        "The landlord also made a major mistake sending that follow up message about nitpicking. That is retaliation and will look extremely unfavorably in court.",
+        "If he didn't send it within 30 days, from what I can see with a quick search on MA security deposit law, he's S.O.L."
+    ],
+    "pre_mortem_checklist": [
+        "Does my lease clearly define all potential tenant charges, including maintenance and repairs?",
+        "Is there any ambiguity in the lease regarding the return of the security deposit and itemized deductions?",
+        "Have I meticulously documented the property's condition at move-in and move-out, with photographic evidence?",
+        "Am I aware of and strictly adhering to all state and local laws regarding security deposit handling, timelines, and interest accrual?",
+        "Would a tenant reasonably perceive any of my proposed deductions as normal wear and tear rather than damage?"
+    ],
+    "financial_impact": "Potential loss of the full security deposit plus punitive damages (ranging from $500 to treble damages), legal fees, and significant damage to reputation, potentially costing thousands per case."
+}

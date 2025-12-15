@@ -1,0 +1,9 @@
+all_rental_data.json
+extracted_failure_modes.jsonl
+*.py
+venv/
+node_modules/
+.git/
+.next/
+scripts/
+pedia_entries/

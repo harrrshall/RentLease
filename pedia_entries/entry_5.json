@@ -1,0 +1,21 @@
+{
+    "title": "Failure to Verify Seller's Ability to Convey Clear Title",
+    "severity_score": 9,
+    "summary": "Operators repeatedly fail to confirm the seller's unencumbered right to transfer ownership, often due to rushed transactions or reliance on incomplete information. This oversight creates significant financial and legal entanglements that are difficult and costly to resolve post-closing.",
+    "the_trigger": "Entering into a purchase agreement without verifying the seller's financial standing, specifically their mortgage status or other liens, and their commitment to vacate the property as agreed.",
+    "the_escalation": "1. Seller's inability to close due to undisclosed financial burdens (e.g., mortgage delinquency) or failure to vacate the property. 2. Buyers face unexpected demands for additional funds or legal battles to gain possession. 3. Transaction stalls, risking earnest money and incurring legal fees for buyers and sellers.",
+    "the_fatal_mistake": "Proceeding to closing without absolute confirmation that the seller has the clear legal and financial capacity to convey title and deliver possession of the property, or failing to secure the property's vacancy and condition prior to closing.",
+    "brutal_reality_quotes": [
+        "The sellers' attempt to impose an addendum with uncapped financial liability and strict, subjective conditions on the buyers, rather than making arrangements for their koi prior to closing.",
+        "Seller failed to vacate the property the day after closing, as agreed.",
+        "Buyers informed at closing that sellers were behind on their mortgage and needed an additional $37,000 to close the sale.",
+        "Why would you close escrow unless house was empty? Didn\u2019t you inspect it before closing?",
+        "Poor planning on your part does not necessitate an emergency on mine."
+    ],
+    "pre_mortem_checklist": [
+        "Does the seller have the unencumbered legal right and financial capacity to convey clear title at closing?",
+        "The seller's insistence on last-minute addendums or demands that fundamentally alter the agreed-upon terms.",
+        "Do not close until the property is vacant, inspected, and the seller has demonstrably satisfied all financial obligations (e.g., mortgage payoff) required to transfer clear title."
+    ],
+    "financial_impact": "$37,000+ potential gap for mortgage delinquency; legal fees for eviction or title disputes; loss of earnest money; costs associated with extended vacancy or repairs."
+}

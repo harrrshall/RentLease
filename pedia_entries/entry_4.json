@@ -1,0 +1,21 @@
+{
+    "title": "Rent Increases Outpacing Market Value and Tenant Capacity",
+    "severity_score": 8,
+    "summary": "Landlords and operators are repeatedly increasing rents beyond tenant income growth and property value, driven by perceived market opportunities and rising operational costs. This strategy fails to account for market saturation and tenant affordability limits, leading to prolonged vacancies and potential legal/reputational damage.",
+    "the_trigger": "Perceived market conditions (post-pandemic, inflation) and rising operational costs (insurance, property taxes) incentivize significant rent increases.",
+    "the_escalation": "1. Landlords implement substantial rent hikes, often exceeding wage growth and general inflation. 2. Tenants face unaffordability, leading to frustration and potential displacement. 3. Public and legal scrutiny increases, focusing on 'financialization of housing' and alleged price-fixing. 4. Properties remain vacant for extended periods as market-rate pricing deters new tenants, even with concessions.",
+    "the_fatal_mistake": "Prioritizing short-term profit maximization through aggressive rent increases without commensurate property improvements or realistic assessment of tenant affordability and market demand, leading to prolonged vacancies and negative market perception.",
+    "brutal_reality_quotes": [
+        "Landlords and property management prioritizing profit maximization through rent increases that significantly exceed wage growth and general inflation, without corresponding improvements to the property.",
+        "The landlord's decision to excessively raise rent without commensurate property updates or maintenance, pricing the property out of the competitive market.",
+        "The perceived 'financialization of housing' and landlords treating housing as a profit-generating asset rather than a basic human need, leading to exorbitant rents.",
+        "The discussion highlights at-will employment, lack of notice for termination, and no requirement for severance pay in the US, contrasting with legal recourse, notice periods, and unemployment benefits elsewhere.",
+        "The precariousness of US employment is directly linked to the difficulty in affording rent, leading to the need for multiple jobs and general financial instability."
+    ],
+    "pre_mortem_checklist": [
+        "Have I analyzed comparable market rents and tenant income levels to ensure proposed increases are sustainable?",
+        "Significant increases in insurance premiums or property taxes are often a precursor to aggressive rent hikes.",
+        "If proposed rent increases exceed 10% year-over-year or significantly outpace local wage growth, do not implement them without substantial property upgrades."
+    ],
+    "financial_impact": "$141 million settlement (algorithmic pricing) plus potential for significant lost rental income due to prolonged vacancies (e.g., a year of vacancy on a $2,000/month unit is $24,000 loss per unit)."
+}

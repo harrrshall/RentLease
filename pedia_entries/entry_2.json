@@ -1,0 +1,19 @@
+{
+    "title": "Over-reliance on Past Success and Underestimation of Continuous Effort",
+    "severity_score": 8,
+    "summary": "Operators mistakenly believe past success and existing networks negate the need for ongoing, proactive marketing and client acquisition. This leads to a decline in business when market conditions shift or personal circumstances change, as the foundation of inbound leads erodes without consistent effort.",
+    "the_trigger": "A period of high sales volume or a significant life event (e.g., new job, personal break) leads to a reduction in active client acquisition and marketing efforts.",
+    "the_escalation": "1. Reduced prospecting and marketing activities. 2. Income significantly decreases due to lack of new client acquisition. 3. Significant effort and financial investment are required to regain previous income levels, often taking many months.",
+    "the_fatal_mistake": "Belief that past success and a large network would sustain income without consistent, ongoing effort and investment during periods of reduced activity.",
+    "brutal_reality_quotes": [
+        "The harder you work the luckier you get.",
+        "\"The hardest part of the job is finding business. Those clients aren\u2019t just handed to you. There is always a cost, either in money or in labor.\"",
+        "This business is what you make it. There is no ceiling, but there also isn't a floor. It's a simple business, but not easy."
+    ],
+    "pre_mortem_checklist": [
+        "Am I actively marketing and prospecting daily, even after periods of success?",
+        "A dip in inbound leads or inquiries despite no change in personal marketing efforts.",
+        "Maintain a consistent marketing and lead generation budget and activity level, regardless of current sales volume."
+    ],
+    "financial_impact": "$0 - Significant income reduction for 9+ months, plus substantial investment in marketing and client acquisition to regain momentum. This represents lost opportunity cost and direct business expenses."
+}

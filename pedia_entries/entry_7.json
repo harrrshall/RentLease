@@ -1,0 +1,19 @@
+{
+    "title": "Misaligned Screening & Disclosure Practices",
+    "severity_score": 8,
+    "summary": "Landlords often fail to understand legal obligations and tenant needs, leading to discriminatory practices and alienating qualified applicants. This stems from a lack of proactive education and a tendency towards invasive or unclear screening methods that create distrust and legal exposure.",
+    "the_trigger": "Inquiries from voucher holders, requests for sensitive applicant information, or poorly crafted rental advertisements.",
+    "the_escalation": "1. Landlords exhibit ignorance or bias regarding voucher programs and accommodation requests (e.g., service animals). 2. Inappropriate screening methods (e.g., invasive video requests, excessive personal data demands) are employed. 3. Advertisements lack clarity, attracting unqualified applicants or causing confusion. 4. Offers are withdrawn or denied based on protected characteristics or perceived risks, often without legal justification. 5. Tenants, facing repeated rejections or discriminatory practices, may escalate to legal complaints.",
+    "the_fatal_mistake": "Implementing screening processes that are overly intrusive, discriminatory, or fail to comply with fair housing laws, or neglecting to provide clear, accurate property information, thereby alienating potential tenants and inviting legal challenges.",
+    "brutal_reality_quotes": [
+        "As a tenant, this is a red flag. For the landlords/sympathizers in the comments, there are ways of justifying it. If youre a tenant and you dont want an overbearing landlord, avoid requests like this.",
+        "I've had a housing voucher for four months now and haven't been able to find a place to rent, partly because costs are so high, partly because my credit has been destroyed by trying to survive homelessness for the last two years so nobody wants to rent to me even though the voucher guarantees payment, and partly because I have a service dog and ESA that nobody is willing to accommodate despite having all my medical documentation in order and two references from people I've stayed with over the last two years who are happy to verify that they're fully housebroken and well trained(even though that's not legally required, I'm happy to provide them if it makes a perspective landlord feel more comfortable with accommodating us).",
+        "\"So many LLs in my area overlook the marketing aspect of property management, so I pride myself in taking time with my advertising. Quality ads attract quality tenants, plain and simple.\""
+    ],
+    "pre_mortem_checklist": [
+        "Do I fully understand my legal obligations regarding voucher holders and reasonable accommodations?",
+        "Is my application process designed to gather necessary information without being overly invasive or discriminatory?",
+        "Would I feel comfortable providing the information I'm requesting from applicants about myself?"
+    ],
+    "financial_impact": "Potential legal costs ranging from $5,000 to $50,000+ for discrimination claims, plus lost rental income due to prolonged vacancies from rejected qualified applicants or the need to re-screen after a failed placement."
+}
