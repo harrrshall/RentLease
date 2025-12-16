@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@ai-sdk/google": "^1.0.12",
+    "@vercel/analytics": "^1.6.1",
     "ai": "^4.0.22",
     "clsx": "^2.1.1",
     "lucide-react": "^0.469.0",
