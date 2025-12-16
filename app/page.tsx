@@ -337,7 +337,7 @@ export default function Home() {
                         </div>
                         <div className="text-center mt-3">
                             <p className="text-[10px] md:text-xs text-slate-400 font-medium tracking-wide uppercase">
-                                AI generated content • Verify important details
+                                response are based on the real-life data
                             </p>
                         </div>
                     </div>
